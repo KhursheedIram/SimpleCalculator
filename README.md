@@ -1,2 +1,17 @@
-# SimpleCalculator
-A Simple Calculator built using HTML, CSS, and JavaScript that performs basic arithmetic operations like addition, subtraction, multiplication, and division. It has a user-friendly interface and works efficiently for quick calculations.
+# 🖩 Simple Calculator
+
+A **Basic Calculator** built using **HTML, CSS, and JavaScript**. This project allows users to perform simple arithmetic operations in a clean and user-friendly interface.
+
+## ✨ Features
+- Supports **Addition (+), Subtraction (-), Multiplication (×), and Division (÷)**
+- User-friendly **responsive design**
+- Real-time calculations with a **clear display**
+
+## 📸 Screenshot
+![Calculator Screenshot]("")  
+
+
+## 🚀 How to Use
+1. Clone this repository:
+   ```sh
+   git clone https://github.com/KhursheedIram/simple-calculator.git
