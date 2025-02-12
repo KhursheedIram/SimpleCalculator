@@ -8,7 +8,7 @@ A **Basic Calculator** built using **HTML, CSS, and JavaScript**. This project a
 - Real-time calculations with a **clear display**
 
 ## 📸 Screenshot
-![Calculator Screenshot]('SimpleCalculator.png')  
+![Calculator Screenshot](SimpleCalculator.png)  
 
 
 ## 🚀 How to Use
